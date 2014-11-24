@@ -1,0 +1,5 @@
+c:\users\natalkata\documents\visual studio 2013\Projects\PrimeNumberCheck\PrimeNumberCheck\obj\Debug\PrimeNumberCheck.csprojResolveAssemblyReference.cache
+c:\users\natalkata\documents\visual studio 2013\Projects\PrimeNumberCheck\PrimeNumberCheck\bin\Debug\PrimeNumberCheck.exe
+c:\users\natalkata\documents\visual studio 2013\Projects\PrimeNumberCheck\PrimeNumberCheck\bin\Debug\PrimeNumberCheck.pdb
+c:\users\natalkata\documents\visual studio 2013\Projects\PrimeNumberCheck\PrimeNumberCheck\obj\Debug\PrimeNumberCheck.exe
+c:\users\natalkata\documents\visual studio 2013\Projects\PrimeNumberCheck\PrimeNumberCheck\obj\Debug\PrimeNumberCheck.pdb

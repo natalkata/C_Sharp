@@ -1,0 +1,5 @@
+c:\users\natalkata\documents\visual studio 2013\Projects\Problem6_QuadraticEquation\Problem6_QuadraticEquation\bin\Debug\Problem6_QuadraticEquation.exe
+c:\users\natalkata\documents\visual studio 2013\Projects\Problem6_QuadraticEquation\Problem6_QuadraticEquation\bin\Debug\Problem6_QuadraticEquation.pdb
+c:\users\natalkata\documents\visual studio 2013\Projects\Problem6_QuadraticEquation\Problem6_QuadraticEquation\obj\Debug\Problem6_QuadraticEquation.csprojResolveAssemblyReference.cache
+c:\users\natalkata\documents\visual studio 2013\Projects\Problem6_QuadraticEquation\Problem6_QuadraticEquation\obj\Debug\Problem6_QuadraticEquation.exe
+c:\users\natalkata\documents\visual studio 2013\Projects\Problem6_QuadraticEquation\Problem6_QuadraticEquation\obj\Debug\Problem6_QuadraticEquation.pdb

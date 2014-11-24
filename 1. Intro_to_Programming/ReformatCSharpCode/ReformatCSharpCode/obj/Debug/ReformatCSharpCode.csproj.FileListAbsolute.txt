@@ -1,0 +1,4 @@
+c:\users\natalkata\documents\visual studio 2013\Projects\ReformatCSharpCode\ReformatCSharpCode\bin\Debug\ReformatCSharpCode.exe
+c:\users\natalkata\documents\visual studio 2013\Projects\ReformatCSharpCode\ReformatCSharpCode\bin\Debug\ReformatCSharpCode.pdb
+c:\users\natalkata\documents\visual studio 2013\Projects\ReformatCSharpCode\ReformatCSharpCode\obj\Debug\ReformatCSharpCode.exe
+c:\users\natalkata\documents\visual studio 2013\Projects\ReformatCSharpCode\ReformatCSharpCode\obj\Debug\ReformatCSharpCode.pdb

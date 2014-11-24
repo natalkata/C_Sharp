@@ -1,0 +1,4 @@
+c:\users\natalkata\documents\visual studio 2013\Projects\Trapezoids\Trapezoids\bin\Debug\Trapezoids.exe
+c:\users\natalkata\documents\visual studio 2013\Projects\Trapezoids\Trapezoids\bin\Debug\Trapezoids.pdb
+c:\users\natalkata\documents\visual studio 2013\Projects\Trapezoids\Trapezoids\obj\Debug\Trapezoids.exe
+c:\users\natalkata\documents\visual studio 2013\Projects\Trapezoids\Trapezoids\obj\Debug\Trapezoids.pdb

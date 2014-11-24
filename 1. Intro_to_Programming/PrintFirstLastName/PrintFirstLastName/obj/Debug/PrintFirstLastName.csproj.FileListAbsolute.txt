@@ -1,0 +1,4 @@
+c:\users\natalkata\documents\visual studio 2013\Projects\PrintFirstLastName\PrintFirstLastName\bin\Debug\PrintFirstLastName.exe
+c:\users\natalkata\documents\visual studio 2013\Projects\PrintFirstLastName\PrintFirstLastName\bin\Debug\PrintFirstLastName.pdb
+c:\users\natalkata\documents\visual studio 2013\Projects\PrintFirstLastName\PrintFirstLastName\obj\Debug\PrintFirstLastName.exe
+c:\users\natalkata\documents\visual studio 2013\Projects\PrintFirstLastName\PrintFirstLastName\obj\Debug\PrintFirstLastName.pdb

@@ -1,0 +1,4 @@
+c:\users\natalkata\documents\visual studio 2013\Projects\CurrentDateTime\CurrentDateTime\bin\Debug\CurrentDateTime.exe
+c:\users\natalkata\documents\visual studio 2013\Projects\CurrentDateTime\CurrentDateTime\bin\Debug\CurrentDateTime.pdb
+c:\users\natalkata\documents\visual studio 2013\Projects\CurrentDateTime\CurrentDateTime\obj\Debug\CurrentDateTime.exe
+c:\users\natalkata\documents\visual studio 2013\Projects\CurrentDateTime\CurrentDateTime\obj\Debug\CurrentDateTime.pdb

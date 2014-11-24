@@ -1,0 +1,5 @@
+c:\users\natalkata\documents\visual studio 2013\Projects\Problem1_SumOf3Numbers\Problem1_SumOf3Numbers\bin\Debug\Problem1_SumOf3Numbers.exe
+c:\users\natalkata\documents\visual studio 2013\Projects\Problem1_SumOf3Numbers\Problem1_SumOf3Numbers\bin\Debug\Problem1_SumOf3Numbers.pdb
+c:\users\natalkata\documents\visual studio 2013\Projects\Problem1_SumOf3Numbers\Problem1_SumOf3Numbers\obj\Debug\Problem1_SumOf3Numbers.csprojResolveAssemblyReference.cache
+c:\users\natalkata\documents\visual studio 2013\Projects\Problem1_SumOf3Numbers\Problem1_SumOf3Numbers\obj\Debug\Problem1_SumOf3Numbers.exe
+c:\users\natalkata\documents\visual studio 2013\Projects\Problem1_SumOf3Numbers\Problem1_SumOf3Numbers\obj\Debug\Problem1_SumOf3Numbers.pdb

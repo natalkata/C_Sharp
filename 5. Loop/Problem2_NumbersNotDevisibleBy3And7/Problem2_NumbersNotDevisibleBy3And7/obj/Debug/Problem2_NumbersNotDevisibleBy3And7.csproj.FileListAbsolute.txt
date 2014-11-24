@@ -1,0 +1,4 @@
+c:\users\natalkata\documents\visual studio 2013\Projects\Problem2_NumbersNotDevisibleBy3And7\Problem2_NumbersNotDevisibleBy3And7\bin\Debug\Problem2_NumbersNotDevisibleBy3And7.exe
+c:\users\natalkata\documents\visual studio 2013\Projects\Problem2_NumbersNotDevisibleBy3And7\Problem2_NumbersNotDevisibleBy3And7\bin\Debug\Problem2_NumbersNotDevisibleBy3And7.pdb
+c:\users\natalkata\documents\visual studio 2013\Projects\Problem2_NumbersNotDevisibleBy3And7\Problem2_NumbersNotDevisibleBy3And7\obj\Debug\Problem2_NumbersNotDevisibleBy3And7.exe
+c:\users\natalkata\documents\visual studio 2013\Projects\Problem2_NumbersNotDevisibleBy3And7\Problem2_NumbersNotDevisibleBy3And7\obj\Debug\Problem2_NumbersNotDevisibleBy3And7.pdb

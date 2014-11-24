@@ -1,0 +1,4 @@
+c:\users\natalkata\documents\visual studio 2013\Projects\Problem6_CalculateNDivK\Problem6_CalculateNDivK\bin\Debug\Problem6_CalculateNDivK.exe
+c:\users\natalkata\documents\visual studio 2013\Projects\Problem6_CalculateNDivK\Problem6_CalculateNDivK\bin\Debug\Problem6_CalculateNDivK.pdb
+c:\users\natalkata\documents\visual studio 2013\Projects\Problem6_CalculateNDivK\Problem6_CalculateNDivK\obj\Debug\Problem6_CalculateNDivK.exe
+c:\users\natalkata\documents\visual studio 2013\Projects\Problem6_CalculateNDivK\Problem6_CalculateNDivK\obj\Debug\Problem6_CalculateNDivK.pdb

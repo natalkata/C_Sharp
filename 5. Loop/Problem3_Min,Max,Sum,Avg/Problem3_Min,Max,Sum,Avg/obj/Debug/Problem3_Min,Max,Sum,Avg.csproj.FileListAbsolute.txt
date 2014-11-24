@@ -1,0 +1,4 @@
+c:\users\natalkata\documents\visual studio 2013\Projects\Problem3_Min,Max,Sum,Avg\Problem3_Min,Max,Sum,Avg\bin\Debug\Problem3_Min,Max,Sum,Avg.exe
+c:\users\natalkata\documents\visual studio 2013\Projects\Problem3_Min,Max,Sum,Avg\Problem3_Min,Max,Sum,Avg\bin\Debug\Problem3_Min,Max,Sum,Avg.pdb
+c:\users\natalkata\documents\visual studio 2013\Projects\Problem3_Min,Max,Sum,Avg\Problem3_Min,Max,Sum,Avg\obj\Debug\Problem3_Min,Max,Sum,Avg.exe
+c:\users\natalkata\documents\visual studio 2013\Projects\Problem3_Min,Max,Sum,Avg\Problem3_Min,Max,Sum,Avg\obj\Debug\Problem3_Min,Max,Sum,Avg.pdb

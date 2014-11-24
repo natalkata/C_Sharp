@@ -1,0 +1,4 @@
+c:\users\natalkata\documents\visual studio 2013\Projects\ExtractBitN3\ExtractBitN3\bin\Debug\ExtractBitN3.exe
+c:\users\natalkata\documents\visual studio 2013\Projects\ExtractBitN3\ExtractBitN3\bin\Debug\ExtractBitN3.pdb
+c:\users\natalkata\documents\visual studio 2013\Projects\ExtractBitN3\ExtractBitN3\obj\Debug\ExtractBitN3.exe
+c:\users\natalkata\documents\visual studio 2013\Projects\ExtractBitN3\ExtractBitN3\obj\Debug\ExtractBitN3.pdb

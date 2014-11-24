@@ -1,0 +1,4 @@
+c:\users\natalkata\documents\visual studio 2013\Projects\Problem9_SumOfNumbers\Problem9_SumOfNumbers\bin\Debug\Problem9_SumOfNumbers.exe
+c:\users\natalkata\documents\visual studio 2013\Projects\Problem9_SumOfNumbers\Problem9_SumOfNumbers\bin\Debug\Problem9_SumOfNumbers.pdb
+c:\users\natalkata\documents\visual studio 2013\Projects\Problem9_SumOfNumbers\Problem9_SumOfNumbers\obj\Debug\Problem9_SumOfNumbers.exe
+c:\users\natalkata\documents\visual studio 2013\Projects\Problem9_SumOfNumbers\Problem9_SumOfNumbers\obj\Debug\Problem9_SumOfNumbers.pdb

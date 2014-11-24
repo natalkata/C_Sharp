@@ -1,0 +1,5 @@
+c:\users\natalkata\documents\visual studio 2013\Projects\Problem8_CatalanNumbers\Problem8_CatalanNumbers\bin\Debug\Problem8_CatalanNumbers.exe
+c:\users\natalkata\documents\visual studio 2013\Projects\Problem8_CatalanNumbers\Problem8_CatalanNumbers\bin\Debug\Problem8_CatalanNumbers.pdb
+c:\users\natalkata\documents\visual studio 2013\Projects\Problem8_CatalanNumbers\Problem8_CatalanNumbers\obj\Debug\Problem8_CatalanNumbers.exe
+c:\users\natalkata\documents\visual studio 2013\Projects\Problem8_CatalanNumbers\Problem8_CatalanNumbers\obj\Debug\Problem8_CatalanNumbers.pdb
+c:\users\natalkata\documents\visual studio 2013\Projects\Problem8_CatalanNumbers\Problem8_CatalanNumbers\obj\Debug\Problem8_CatalanNumbers.csprojResolveAssemblyReference.cache

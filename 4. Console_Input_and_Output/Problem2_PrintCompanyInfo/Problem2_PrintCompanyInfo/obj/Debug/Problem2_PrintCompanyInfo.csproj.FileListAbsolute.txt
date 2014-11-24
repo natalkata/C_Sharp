@@ -1,0 +1,4 @@
+c:\users\natalkata\documents\visual studio 2013\Projects\Problem2_PrintCompanyInfo\Problem2_PrintCompanyInfo\bin\Debug\Problem2_PrintCompanyInfo.exe
+c:\users\natalkata\documents\visual studio 2013\Projects\Problem2_PrintCompanyInfo\Problem2_PrintCompanyInfo\bin\Debug\Problem2_PrintCompanyInfo.pdb
+c:\users\natalkata\documents\visual studio 2013\Projects\Problem2_PrintCompanyInfo\Problem2_PrintCompanyInfo\obj\Debug\Problem2_PrintCompanyInfo.exe
+c:\users\natalkata\documents\visual studio 2013\Projects\Problem2_PrintCompanyInfo\Problem2_PrintCompanyInfo\obj\Debug\Problem2_PrintCompanyInfo.pdb

@@ -1,0 +1,4 @@
+c:\users\natalkata\documents\visual studio 2013\Projects\Problem_11\Problem_11\bin\Debug\Problem_11.exe
+c:\users\natalkata\documents\visual studio 2013\Projects\Problem_11\Problem_11\bin\Debug\Problem_11.pdb
+c:\users\natalkata\documents\visual studio 2013\Projects\Problem_11\Problem_11\obj\Debug\Problem_11.exe
+c:\users\natalkata\documents\visual studio 2013\Projects\Problem_11\Problem_11\obj\Debug\Problem_11.pdb

@@ -1,0 +1,5 @@
+c:\users\natalkata\documents\visual studio 2013\Projects\Problem7_Loops\Problem7_Loops\bin\Debug\Problem7_Loops.exe
+c:\users\natalkata\documents\visual studio 2013\Projects\Problem7_Loops\Problem7_Loops\bin\Debug\Problem7_Loops.pdb
+c:\users\natalkata\documents\visual studio 2013\Projects\Problem7_Loops\Problem7_Loops\obj\Debug\Problem7_Loops.csprojResolveAssemblyReference.cache
+c:\users\natalkata\documents\visual studio 2013\Projects\Problem7_Loops\Problem7_Loops\obj\Debug\Problem7_Loops.exe
+c:\users\natalkata\documents\visual studio 2013\Projects\Problem7_Loops\Problem7_Loops\obj\Debug\Problem7_Loops.pdb

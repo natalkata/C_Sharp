@@ -1,0 +1,4 @@
+c:\users\natalkata\documents\visual studio 2013\Projects\PrintASequence\PrintASequence\bin\Debug\PrintASequence.exe
+c:\users\natalkata\documents\visual studio 2013\Projects\PrintASequence\PrintASequence\bin\Debug\PrintASequence.pdb
+c:\users\natalkata\documents\visual studio 2013\Projects\PrintASequence\PrintASequence\obj\Debug\PrintASequence.exe
+c:\users\natalkata\documents\visual studio 2013\Projects\PrintASequence\PrintASequence\obj\Debug\PrintASequence.pdb

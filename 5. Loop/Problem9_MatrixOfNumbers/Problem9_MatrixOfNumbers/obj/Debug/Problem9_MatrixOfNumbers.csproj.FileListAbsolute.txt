@@ -1,0 +1,4 @@
+c:\users\natalkata\documents\visual studio 2013\Projects\Problem9_MatrixOfNumbers\Problem9_MatrixOfNumbers\bin\Debug\Problem9_MatrixOfNumbers.exe
+c:\users\natalkata\documents\visual studio 2013\Projects\Problem9_MatrixOfNumbers\Problem9_MatrixOfNumbers\bin\Debug\Problem9_MatrixOfNumbers.pdb
+c:\users\natalkata\documents\visual studio 2013\Projects\Problem9_MatrixOfNumbers\Problem9_MatrixOfNumbers\obj\Debug\Problem9_MatrixOfNumbers.exe
+c:\users\natalkata\documents\visual studio 2013\Projects\Problem9_MatrixOfNumbers\Problem9_MatrixOfNumbers\obj\Debug\Problem9_MatrixOfNumbers.pdb

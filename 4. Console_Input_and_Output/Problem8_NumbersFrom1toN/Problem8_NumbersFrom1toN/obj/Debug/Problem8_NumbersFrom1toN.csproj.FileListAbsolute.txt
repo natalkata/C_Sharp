@@ -1,0 +1,4 @@
+c:\users\natalkata\documents\visual studio 2013\Projects\Problem8_NumbersFrom1toN\Problem8_NumbersFrom1toN\bin\Debug\Problem8_NumbersFrom1toN.exe
+c:\users\natalkata\documents\visual studio 2013\Projects\Problem8_NumbersFrom1toN\Problem8_NumbersFrom1toN\bin\Debug\Problem8_NumbersFrom1toN.pdb
+c:\users\natalkata\documents\visual studio 2013\Projects\Problem8_NumbersFrom1toN\Problem8_NumbersFrom1toN\obj\Debug\Problem8_NumbersFrom1toN.exe
+c:\users\natalkata\documents\visual studio 2013\Projects\Problem8_NumbersFrom1toN\Problem8_NumbersFrom1toN\obj\Debug\Problem8_NumbersFrom1toN.pdb

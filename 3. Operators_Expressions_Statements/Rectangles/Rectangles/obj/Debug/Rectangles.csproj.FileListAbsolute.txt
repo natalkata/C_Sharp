@@ -1,0 +1,4 @@
+c:\users\natalkata\documents\visual studio 2013\Projects\Rectangles\Rectangles\bin\Debug\Rectangles.exe
+c:\users\natalkata\documents\visual studio 2013\Projects\Rectangles\Rectangles\bin\Debug\Rectangles.pdb
+c:\users\natalkata\documents\visual studio 2013\Projects\Rectangles\Rectangles\obj\Debug\Rectangles.exe
+c:\users\natalkata\documents\visual studio 2013\Projects\Rectangles\Rectangles\obj\Debug\Rectangles.pdb

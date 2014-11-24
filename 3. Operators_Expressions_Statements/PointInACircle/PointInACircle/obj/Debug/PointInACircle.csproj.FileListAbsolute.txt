@@ -1,0 +1,4 @@
+c:\users\natalkata\documents\visual studio 2013\Projects\PointInACircle\PointInACircle\bin\Debug\PointInACircle.exe
+c:\users\natalkata\documents\visual studio 2013\Projects\PointInACircle\PointInACircle\bin\Debug\PointInACircle.pdb
+c:\users\natalkata\documents\visual studio 2013\Projects\PointInACircle\PointInACircle\obj\Debug\PointInACircle.exe
+c:\users\natalkata\documents\visual studio 2013\Projects\PointInACircle\PointInACircle\obj\Debug\PointInACircle.pdb

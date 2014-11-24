@@ -1,0 +1,5 @@
+c:\users\natalkata\documents\visual studio 2013\Projects\OddOrEven\OddOrEven\bin\Debug\OddOrEven.exe
+c:\users\natalkata\documents\visual studio 2013\Projects\OddOrEven\OddOrEven\bin\Debug\OddOrEven.pdb
+c:\users\natalkata\documents\visual studio 2013\Projects\OddOrEven\OddOrEven\obj\Debug\OddOrEven.csprojResolveAssemblyReference.cache
+c:\users\natalkata\documents\visual studio 2013\Projects\OddOrEven\OddOrEven\obj\Debug\OddOrEven.exe
+c:\users\natalkata\documents\visual studio 2013\Projects\OddOrEven\OddOrEven\obj\Debug\OddOrEven.pdb

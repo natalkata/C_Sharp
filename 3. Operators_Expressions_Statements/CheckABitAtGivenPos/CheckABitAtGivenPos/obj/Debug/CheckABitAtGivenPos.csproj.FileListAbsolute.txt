@@ -1,0 +1,4 @@
+c:\users\natalkata\documents\visual studio 2013\Projects\CheckABitAtGivenPos\CheckABitAtGivenPos\bin\Debug\CheckABitAtGivenPos.exe
+c:\users\natalkata\documents\visual studio 2013\Projects\CheckABitAtGivenPos\CheckABitAtGivenPos\bin\Debug\CheckABitAtGivenPos.pdb
+c:\users\natalkata\documents\visual studio 2013\Projects\CheckABitAtGivenPos\CheckABitAtGivenPos\obj\Debug\CheckABitAtGivenPos.exe
+c:\users\natalkata\documents\visual studio 2013\Projects\CheckABitAtGivenPos\CheckABitAtGivenPos\obj\Debug\CheckABitAtGivenPos.pdb

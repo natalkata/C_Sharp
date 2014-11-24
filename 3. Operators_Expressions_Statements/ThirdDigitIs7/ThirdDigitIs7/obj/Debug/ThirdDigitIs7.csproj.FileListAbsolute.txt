@@ -1,0 +1,4 @@
+c:\users\natalkata\documents\visual studio 2013\Projects\ThirdDigitIs7\ThirdDigitIs7\bin\Debug\ThirdDigitIs7.exe
+c:\users\natalkata\documents\visual studio 2013\Projects\ThirdDigitIs7\ThirdDigitIs7\bin\Debug\ThirdDigitIs7.pdb
+c:\users\natalkata\documents\visual studio 2013\Projects\ThirdDigitIs7\ThirdDigitIs7\obj\Debug\ThirdDigitIs7.exe
+c:\users\natalkata\documents\visual studio 2013\Projects\ThirdDigitIs7\ThirdDigitIs7\obj\Debug\ThirdDigitIs7.pdb

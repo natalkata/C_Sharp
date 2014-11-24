@@ -1,0 +1,4 @@
+c:\users\natalkata\documents\visual studio 2013\Projects\Problem3_CirclePerimeterArea\Problem3_CirclePerimeterArea\bin\Debug\Problem3_CirclePerimeterArea.exe
+c:\users\natalkata\documents\visual studio 2013\Projects\Problem3_CirclePerimeterArea\Problem3_CirclePerimeterArea\bin\Debug\Problem3_CirclePerimeterArea.pdb
+c:\users\natalkata\documents\visual studio 2013\Projects\Problem3_CirclePerimeterArea\Problem3_CirclePerimeterArea\obj\Debug\Problem3_CirclePerimeterArea.exe
+c:\users\natalkata\documents\visual studio 2013\Projects\Problem3_CirclePerimeterArea\Problem3_CirclePerimeterArea\obj\Debug\Problem3_CirclePerimeterArea.pdb

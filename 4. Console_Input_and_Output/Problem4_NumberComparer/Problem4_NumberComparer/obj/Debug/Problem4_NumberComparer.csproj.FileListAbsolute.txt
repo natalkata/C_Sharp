@@ -1,0 +1,4 @@
+c:\users\natalkata\documents\visual studio 2013\Projects\Problem4_NumberComparer\Problem4_NumberComparer\bin\Debug\Problem4_NumberComparer.exe
+c:\users\natalkata\documents\visual studio 2013\Projects\Problem4_NumberComparer\Problem4_NumberComparer\bin\Debug\Problem4_NumberComparer.pdb
+c:\users\natalkata\documents\visual studio 2013\Projects\Problem4_NumberComparer\Problem4_NumberComparer\obj\Debug\Problem4_NumberComparer.exe
+c:\users\natalkata\documents\visual studio 2013\Projects\Problem4_NumberComparer\Problem4_NumberComparer\obj\Debug\Problem4_NumberComparer.pdb

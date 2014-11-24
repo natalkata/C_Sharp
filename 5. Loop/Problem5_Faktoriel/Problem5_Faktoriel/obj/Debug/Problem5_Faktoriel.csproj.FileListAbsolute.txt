@@ -1,0 +1,4 @@
+c:\users\natalkata\documents\visual studio 2013\Projects\Problem5_Faktoriel\Problem5_Faktoriel\bin\Debug\Problem5_Faktoriel.exe
+c:\users\natalkata\documents\visual studio 2013\Projects\Problem5_Faktoriel\Problem5_Faktoriel\bin\Debug\Problem5_Faktoriel.pdb
+c:\users\natalkata\documents\visual studio 2013\Projects\Problem5_Faktoriel\Problem5_Faktoriel\obj\Debug\Problem5_Faktoriel.exe
+c:\users\natalkata\documents\visual studio 2013\Projects\Problem5_Faktoriel\Problem5_Faktoriel\obj\Debug\Problem5_Faktoriel.pdb

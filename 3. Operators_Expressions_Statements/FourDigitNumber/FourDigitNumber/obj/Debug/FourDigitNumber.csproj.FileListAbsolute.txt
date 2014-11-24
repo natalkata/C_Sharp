@@ -1,0 +1,5 @@
+c:\users\natalkata\documents\visual studio 2013\Projects\FourDigitNumber\FourDigitNumber\bin\Debug\FourDigitNumber.exe
+c:\users\natalkata\documents\visual studio 2013\Projects\FourDigitNumber\FourDigitNumber\bin\Debug\FourDigitNumber.pdb
+c:\users\natalkata\documents\visual studio 2013\Projects\FourDigitNumber\FourDigitNumber\obj\Debug\FourDigitNumber.csprojResolveAssemblyReference.cache
+c:\users\natalkata\documents\visual studio 2013\Projects\FourDigitNumber\FourDigitNumber\obj\Debug\FourDigitNumber.exe
+c:\users\natalkata\documents\visual studio 2013\Projects\FourDigitNumber\FourDigitNumber\obj\Debug\FourDigitNumber.pdb

@@ -1,0 +1,4 @@
+c:\users\natalkata\documents\visual studio 2013\Projects\Problem7_SumOf5Numbers\Problem7_SumOf5Numbers\bin\Debug\Problem7_SumOf5Numbers.exe
+c:\users\natalkata\documents\visual studio 2013\Projects\Problem7_SumOf5Numbers\Problem7_SumOf5Numbers\bin\Debug\Problem7_SumOf5Numbers.pdb
+c:\users\natalkata\documents\visual studio 2013\Projects\Problem7_SumOf5Numbers\Problem7_SumOf5Numbers\obj\Debug\Problem7_SumOf5Numbers.exe
+c:\users\natalkata\documents\visual studio 2013\Projects\Problem7_SumOf5Numbers\Problem7_SumOf5Numbers\obj\Debug\Problem7_SumOf5Numbers.pdb

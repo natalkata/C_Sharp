@@ -1,0 +1,4 @@
+c:\users\natalkata\documents\visual studio 2013\Projects\DevideBy7And5\DevideBy7And5\bin\Debug\DevideBy7And5.exe
+c:\users\natalkata\documents\visual studio 2013\Projects\DevideBy7And5\DevideBy7And5\bin\Debug\DevideBy7And5.pdb
+c:\users\natalkata\documents\visual studio 2013\Projects\DevideBy7And5\DevideBy7And5\obj\Debug\DevideBy7And5.exe
+c:\users\natalkata\documents\visual studio 2013\Projects\DevideBy7And5\DevideBy7And5\obj\Debug\DevideBy7And5.pdb

@@ -1,0 +1,4 @@
+c:\users\natalkata\documents\visual studio 2013\Projects\GravitationOntheMoon\GravitationOntheMoon\bin\Debug\GravitationOntheMoon.exe
+c:\users\natalkata\documents\visual studio 2013\Projects\GravitationOntheMoon\GravitationOntheMoon\bin\Debug\GravitationOntheMoon.pdb
+c:\users\natalkata\documents\visual studio 2013\Projects\GravitationOntheMoon\GravitationOntheMoon\obj\Debug\GravitationOntheMoon.exe
+c:\users\natalkata\documents\visual studio 2013\Projects\GravitationOntheMoon\GravitationOntheMoon\obj\Debug\GravitationOntheMoon.pdb
